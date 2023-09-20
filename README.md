@@ -1,5 +1,5 @@
 # Heart-Failure-Prediction
-Project for Codecademy Deep Learning course
+Project for Codecademy Build Deep Learning Models with TensorFlow Skill Path
 
 In this project, I will use a dataset from Kaggle to predict the survival of patients with heart failure from serum creatinine and ejection fraction, and other factors such as age, anemia, diabetes, and so on.
 
